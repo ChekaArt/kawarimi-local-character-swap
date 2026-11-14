@@ -163,6 +163,7 @@ Installers: [docs/RELEASE.md](docs/RELEASE.md).
 Other open-source projects from [Jutsu Studio](https://jutsustudio.com/):
 
 - [Jutsu Studio](https://github.com/jutsuhq/jutsu-studio): the open-source Higgsfield desktop app for Mac · [jutsustudio.com](https://jutsustudio.com/)
+- [Jutsu Studio for Windows and Linux](https://github.com/jutsuhq/higgsfield-desktop): the same Higgsfield desktop app for Windows and Linux
 - [Swapjutsu](https://github.com/jutsuhq/swapjutsu-seedance-character-swap): free character swap for Mac, no watermark · [jutsustudio.com/swapjutsu](https://jutsustudio.com/swapjutsu/)
 - [Content Factory](https://github.com/jutsuhq/content-factory): open-source faceless video generator for Shorts, TikTok and Reels · [jutsustudio.com/content-factory](https://jutsustudio.com/content-factory/)
 - [EdgeTAM Core ML](https://github.com/jutsuhq/edgetam-coreml): EdgeTAM video object tracking in Core ML, on the Apple Neural Engine
