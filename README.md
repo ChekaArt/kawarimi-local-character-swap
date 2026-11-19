@@ -6,12 +6,12 @@
 
 **Kawarimi is a free, open-source Viggle alternative for Windows and Linux.** It swaps a person in a 4–30 s clip for
 a character from one image, with Wan 2.2 Animate on your own NVIDIA GPU. $0 per video, no account, no cloud. 12 GB of
-VRAM recommended.
+VRAM recommended. Guide, examples and FAQ: [jutsustudio.com/kawarimi](https://jutsustudio.com/kawarimi/).
 
 [![Download](https://img.shields.io/github/v/release/jutsuhq/kawarimi-local-character-swap?include_prereleases&style=for-the-badge&label=Download&labelColor=F2FF59&color=211927)](https://github.com/jutsuhq/kawarimi-local-character-swap/releases)
 
 [Install](#install) · [Quick start](#quick-start) · [How it works](#how-it-works) · [Agents](#agents) ·
-[Requirements](#requirements) · [Build](#build-from-source)
+[Requirements](#requirements) · [Build](#build-from-source) · [Website](https://jutsustudio.com/kawarimi/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-F2FF59.svg?labelColor=211927)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-211927)](#requirements)
