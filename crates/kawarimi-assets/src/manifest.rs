@@ -206,7 +206,7 @@ pub const FFMPEG: Asset = Asset {
         url: "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n9.0-latest-win64-lgpl-9.0.zip",
         path: "ffmpeg.zip",
         size: 171848461,
-        sha256: "93D53249C0A4DE6BEC6D063648FD0D4F8D90FD3587A74B70357B2476C4C8802B",
+        sha256: "93d53249c0a4de6bec6d063648fd0d4f8d90fd3587a74b70357b2476c4c8802b",
         unpack: &[
             ("ffmpeg-n9.0-latest-win64-lgpl-9.0/bin/ffmpeg.exe", "ffmpeg.exe"),
             ("ffmpeg-n9.0-latest-win64-lgpl-9.0/bin/ffprobe.exe", "ffprobe.exe"),
